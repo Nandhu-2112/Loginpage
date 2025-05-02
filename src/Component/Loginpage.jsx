@@ -54,7 +54,7 @@ const Login = () => {
         </button>
       </form>
 
-      <p>Don't have an account?</p>
+      <p>Don't you have an account?</p>
       <button
         onClick={() => navigate("/register")}
         style={{ padding: "10px 20px" }}
