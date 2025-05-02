@@ -1,0 +1,41 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "age": "23",
+      "email": "user1@gmail.com",
+      "password": "user1pass",
+      "name": "User One",
+      "role": "admin"
+    },
+    {
+      "id": "2",
+      "age": "14",
+      "email": "user2@gmail.com",
+      "password": "user2pass",
+      "name": "User Two",
+      "role": "customer"
+    },
+    {
+      "id": "dccb",
+      "name": "nan",
+      "age": "12",
+      "email": "kalai@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "7fb7",
+      "name": "nandy",
+      "age": "21",
+      "email": "nandhu@gamil.com",
+      "password": "9090"
+    },
+    {
+      "id": "a051",
+      "name": "nandhini",
+      "age": "20",
+      "email": "selva@gmail.com",
+      "password": "8888"
+    }
+  ]
+}
